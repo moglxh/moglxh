@@ -1,37 +1,56 @@
-# MOG
+# moglxh
 
-I use this GitHub to document what I learn, build, break, fix, and research.
+**Aspiring Junior Penetration Tester | Cybersecurity**
 
-My primary interests are Linux internals, systems programming, networking, web application security, reverse engineering, exploit development, and red team operations. Most repositories here are long-term learning and research projects rather than course dumps or challenge collections.
+I use this GitHub to document my cybersecurity learning through practical labs, technical investigations, controlled experiments, and research.
+
+My current focus is understanding how systems, networks, and web applications work — and how to identify, reproduce, analyze, and mitigate security weaknesses.
 
 ## Current Focus
 
-* Red team
-* Linux
-* Systems Programming (C / POSIX)
-* Networking
-* Web Application Security
-* Reverse Engineering
-* Exploit Development
-* Vulnerabilty Research
+- Web Application Security
+- Linux Internals and Administration
+- Network Enumeration and Analysis
+- Penetration Testing Methodology
+- Systems Programming with C
+- Reverse Engineering Fundamentals
 
-## Repositories
+## Technical Interests
 
-| Repository          | Focus                                                                        |
-| ------------------- | ---------------------------------------------------------------------------- |
-| linux               | Linux internals, administration, privilege escalation research, kernel notes |
-| sys-programming     | C, POSIX APIs, TLPI exercises, systems programming                           |
-| networking          | TCP/IP, DNS, HTTP, TLS, routing, packet analysis                             |
-| web-security        | Web vulnerabilities, PortSwigger labs, notes, research                       |
-| reverse-engineering | Assembly, Ghidra, GDB, binary analysis                                       |
-| exploit-development | Memory corruption, fuzzing, shellcoding, exploitation research               |
-| red-team            | Tradecraft, methodology, Active Directory, OPSEC research                    |
-| homelab             | Lab infrastructure, virtualization, networking, experiments                  |
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Philosophy
+## Selected Work
 
-I prefer building practical skills through experimentation, documentation, and small projects. This GitHub is organized around technical domains rather than courses, certificates, or daily challenge repositories.
+| Repository | Description |
+|---|---|
+| [case-studies](https://github.com/moglxh/case-studies) | Security research and controlled technical reproductions |
+| [web-security](https://github.com/moglxh/web-security) | Web application security labs, notes, and write-ups |
+| [pentest-labs](https://github.com/moglxh/pentest-labs) | Practical penetration-testing exercises and scripts |
+| [networking](https://github.com/moglxh/networking) | Networking fundamentals and technical experiments |
+| [linux](https://github.com/moglxh/linux) | Linux internals, process analysis, and service investigation |
+| [sys-programming](https://github.com/moglxh/sys-programming) | C, POSIX APIs, and systems programming |
+
+## How I Work
+
+I focus on understanding the underlying mechanisms rather than simply running tools.
+
+My documentation aims to include:
+
+- Technical methodology and reproducible steps
+- Commands, observations, and supporting evidence
+- Root-cause analysis
+- Limitations and assumptions
+- Detection and remediation considerations
+
+## Current Objective
+
+Building the practical foundation required for a Junior Penetration Tester role.
 
 ## Disclaimer
 
-All content is intended for education, research, and authorized security testing.
+All security testing and experiments are conducted in controlled laboratory environments or on systems for which authorization has been granted.
